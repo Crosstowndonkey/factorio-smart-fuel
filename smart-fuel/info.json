@@ -1,0 +1,10 @@
+{
+  "name": "smart-fuel",
+  "version": "0.1.0",
+  "title": "Smart Fuel",
+  "author": "Crosstowndonkey",
+  "factorio_version": "2.1",
+  "homepage": "https://github.com/Crosstowndonkey/factorio-smart-fuel",
+  "description": "Furnaces, boilers, burner drills and inserters, locomotives, cars, heating towers, nuclear reactors and biochambers keep themselves fuelled: construction robots bring fuel from the logistic network (the hub on space platforms). Vehicles get the best fuel; machines get the most plentiful basic fuel and never your rocket or nuclear fuel.",
+  "dependencies": ["base >= 2.1", "? space-age"]
+}

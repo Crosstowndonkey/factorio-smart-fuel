@@ -1,0 +1,11 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.1.0
+Date: 2026-11-02
+  Features:
+    - Everything that burns fuel keeps itself fuelled: construction robots bring fuel from the logistic network (the hub on space platforms). Works with modded burners too.
+    - Locomotives, cars and tanks get the best fuel (biggest speed + acceleration bonus); worse fuel is swapped out while they stand still.
+    - Furnaces, boilers, burner drills and inserters get the most plentiful basic fuel, and never rocket or nuclear fuel (editable list).
+    - Nuclear reactors keep a few fuel cells, and the used-up cells are carried away. Biochambers keep a small amount of nutrients.
+    - Heating towers can be fed too (off by default: they burn about 40 MW).
+    - Pick the fuel for one machine: a "Fuel" panel beside its window. Copy / paste settings copies the choice, and blueprints remember it.
+    - Machines that inserters keep full never run low, so they are left alone.
